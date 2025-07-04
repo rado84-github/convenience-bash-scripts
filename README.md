@@ -8,3 +8,5 @@ Altough I created these scripts, there's no autorship or ownership on them. You'
 The main thing about these scripts is that, as I already said, they were created for convenience and some of them - because there's no better alternative as a GUI program, like those DICOM scripts (DICOM are images for Rentgen program, they usually come either without any format, or in rare cases they come as filename.dcm or filename.dicom. As you can imagine, there are no GUI programs for linux that can read and visualize these formats. That's where my bulk conversion scripts come into play.
 
 If you have any questions, feel free to open an "issue" with your questions and I'll do my best to answer all of them.
+
+Note: I wanted to upload the scripts along with the directories they're in, but apparently github doesn't allow that, so I've put them in archives. Maybe some day, if or when github allows uploading a directory, instead of just files, I'll be able to upload them properly.
