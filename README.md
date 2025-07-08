@@ -9,4 +9,4 @@ The main thing about these scripts is that, as I already said, they were created
 
 If you have any questions, feel free to open an "issue" with your questions and I'll do my best to answer all of them.
 
-Note: I wanted to upload the scripts along with the directories they're in, but apparently github doesn't allow that, so I've put them in archives. Maybe some day, if or when github allows uploading a directory, instead of just files, I'll be able to upload them properly.
+A big "thank you" to strasharo for making the scripts structured by directories as I initially wanted but didn't know how to do!
