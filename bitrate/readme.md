@@ -1,0 +1,1 @@
+video-bitrate-calculations.sh: Bash script to calculate target video bitrate, if you want to achieve a certain target file size. It doesn't take the audio file into account because it remains a constant - unchanged variable through the whole process. So the target file size will include the audio file, regardless of its bitrate or type.
