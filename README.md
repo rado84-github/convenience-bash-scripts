@@ -10,3 +10,7 @@ The main thing about these scripts is that, as I already said, they were created
 If you have any questions, feel free to open an "issue" with your questions and I'll do my best to answer all of them.
 
 A big "thank you" to strasharo for making the scripts structured by directories as I initially wanted but didn't know how to do!
+
+## Ungrateful bunch
+
+# No matter where I share scripts to make the linux user's life easier, I receive curses and insults. So I'm not uploading anything anywhere anymore - enjoy the contents of this repository cuz it will never change!
